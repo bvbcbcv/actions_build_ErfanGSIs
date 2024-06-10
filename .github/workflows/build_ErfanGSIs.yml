@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://d.cyteam.cn/d/CY%E4%B8%8E%E6%A9%99%E6%A0%B9%E7%9B%AE%E5%BD%95/%E6%89%8B%E6%9C%BA%E5%88%B7%E6%9C%BA/OPPO/R%26K%20Series/R11s/%E5%AE%98%E6%96%B9ROM%EF%BC%88Stock%20ROM%EF%BC%89/%E5%8D%A1%E5%88%B7%EF%BC%88Flash%20Through%20Recovery%EF%BC%89/R11s_11_OTA_1170.zip?sign=EEFfHmRYGd_NKX_bnshUz9IxYFagobxZQ6o_Agq_a7I=:0
+  ROM_NAME: colour
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
